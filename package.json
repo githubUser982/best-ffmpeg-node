@@ -1,0 +1,27 @@
+{
+  "name": "best-ffmpeg",
+  "version": "1.0.2",
+  "description": "Absolute best way to use ffmpeg with node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubUser982/best-ffmpeg-node.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "video",
+    "node",
+    "image-editing",
+    "video-editing",
+    "gif"
+  ],
+  "author": "User982\u001b[3~",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/githubUser982/best-ffmpeg-node/issues"
+  },
+  "homepage": "https://github.com/githubUser982/best-ffmpeg-node#readme"
+}
