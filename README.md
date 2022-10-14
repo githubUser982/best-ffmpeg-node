@@ -9,8 +9,8 @@ No more writing 10 lines of code just to convert an image.
 #### Compatible with 100% of ffmpeg
 Most modules only support doing a few narrow operations with ffmpeg with no good way to do advanced processing with many layers and complex filters. This module supports everything ffmpeg does, and that is a lot.
 #### The best support
-Wonder how to do something, or just need help? We got you. There's more than 24998 questions answered on SO that apply to this module. There's 75 times more help avalible for this module compared to fluent-ffmpeg.
-#### zero-dependancy 
+Wonder how to do something, or just need help? We got you. There's more than 24998 questions answered on SO that apply to this module. There's 75 times more help available for this module compared to fluent-ffmpeg.
+#### zero-dependency 
 Well it's just nice isn't it?
 
 # Usage
